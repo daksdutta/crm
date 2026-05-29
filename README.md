@@ -1,4 +1,4 @@
-# Enterprise CRM Backend
+# Enterprise CRM
 
 Production-oriented Django CRM backend with:
 - Multi-tenant architecture
