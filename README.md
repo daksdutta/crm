@@ -13,8 +13,6 @@ Production-oriented Django CRM backend with:
 - Django
 - Django REST Framework
 - PostgreSQL
-- SimpleJWT
-- drf-spectacular
 
 ## Features
 - Organization-based tenant isolation
@@ -23,12 +21,3 @@ Production-oriented Django CRM backend with:
 - Activity tracking
 - Deal pipelines
 - Access visibility controls
-
-## Architecture
-View → Service → Repository → Model
-
-## Setup Instructions
-
-## API Documentation
-
-## Future Improvements
